@@ -1,3 +1,3 @@
-prueba
-segundo commit
-tercer commit probando
+<?php
+ echo "Solucionando conflictos";
+?>
